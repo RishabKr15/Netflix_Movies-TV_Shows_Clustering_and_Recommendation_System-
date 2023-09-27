@@ -1,9 +1,10 @@
 # Netflix_Movies_and_TV_Shows_Clustering
+
 ![Netflix-Symbol](https://github.com/Hritikrai55/Netflix_Movies_and_TV_Shows_Clustering/assets/129497779/d3c6d8ae-137c-4e6d-8da7-00b4f094bbbf)
 
 The main objective of this project was to analyze a dataset of TV shows and movies available on Netflix as of 2019. By utilizing NLP techniques, our aim was to group the content into relevant clusters and create a recommendation system that would enhance the user experience and prevent subscriber churn. With over 200 million subscribers, Netflix is the largest online streaming service provider, and it is crucial to continually improve its offerings.
 
-We began by addressing missing values in the dataset and handling nested columns such as director, cast, listed_in, and country. This allowed for a more organized and comprehensive analysis of the data.
+We began with addressing missing values in the dataset and handling nested columns such as director, cast, listed_in, and country. This allowed for a more organized and comprehensive analysis of the data.
 
 To categorize the content effectively, we binned the rating attribute into appropriate categories, including adult, children's, family-friendly, and not rated content. This classification helps in delivering targeted recommendations based on viewer preferences and age appropriateness.
 
